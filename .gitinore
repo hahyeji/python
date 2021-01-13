@@ -1,0 +1,7 @@
+# file format
+.exe
+.zip
+.7z
+#folder
+.idea/
+venv/
